@@ -14,11 +14,11 @@ namespace WebApiSampleProject.Controllers
         {
             new Employee()
                 {
-                    EmployeeId = 1, EmployeeName = "Mukesh Kumar", Address = "New Delhi", Department = "IT"
+                    EmployeeId = 1, EmployeeName = "jogesh", Address = "New Delhi", Department = "IT"
                 },
             new Employee()
                 {
-                    EmployeeId = 2, EmployeeName = "Banky Chamber", Address = "London", Department = "HR"
+                    EmployeeId = 2, EmployeeName = "tim Chamber", Address = "London", Department = "HR"
                 },
             new Employee()
                 {
