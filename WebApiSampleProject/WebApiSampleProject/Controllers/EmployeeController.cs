@@ -14,7 +14,7 @@ namespace WebApiSampleProject.Controllers
         {
             new Employee()
                 {
-                    EmployeeId = 1, EmployeeName = "Mukesh Kumar", Address = "New Delhi", Department = "IT"
+                    EmployeeId = 1, EmployeeName = "shiva kumar", Address = "New Delhi", Department = "IT"
                 },
             new Employee()
                 {
